@@ -55,4 +55,4 @@
 
 ## 📄 Licencja
 
-[![MIT License](https://img.shields.io/badge/Licencja-MIT-brightgreen?style=for-the-badge)](LICENSE.txt)
+[![MIT License](https://img.shields.io/badge/Licencja-MIT-brightgreen?style=for-the-badge)](LICENSE)
